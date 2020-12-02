@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+.content{
+    cursor: pointer;
+    user-select: none;
+}
+.caja{
+    width: 350px;
+}
+.centro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
